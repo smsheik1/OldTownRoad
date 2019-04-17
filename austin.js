@@ -11,5 +11,5 @@ class Dragon {
 };
 
 
-dragon1 = new Dragon("Fred",100,30);
+dragon1 = new Dragon("Fred",100,30,8300);
 console.log(dragon1);
